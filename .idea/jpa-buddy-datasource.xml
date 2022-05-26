@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="04655d48-b405-45ff-927b-46a2af9ae4b9" name="PP_1_1_3-4_JDBC_Hibernate-master" url="jdbc:mysql://localhost/PP_1_1_3-4_JDBC_Hibernate-master?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
